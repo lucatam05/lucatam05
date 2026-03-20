@@ -1,8 +1,8 @@
 # Hi, I'm Luca 👋
 
-🎓 Computer Science student @ UNIPR
-💡 Curious mind — I enjoy learning new things every day
-♟️ Chess enthusiast — I like strategic thinking
+- 🎓 Computer Science student @ UNIPR
+- 💡 Curious mind — I enjoy learning new things every day
+- ♟️ Chess enthusiast — I like strategic thinking
 
 ---
 
