@@ -1,8 +1,8 @@
 # Hi, I'm Luca 👋
 
-- 🎓 Computer Science student @unipr
-- 💡 Curious mind — I enjoy learning new things every day
-- ♟️ Chess enthusiast — I like strategic thinking
+I study Computer Science at UNIPR.
+I like learning new things — I find it exciting.
+I also play chess. Do you want to play?
 
 ---
 
@@ -12,4 +12,4 @@ Here you'll find projects I'm working on or interested in.
 
 ---
 
-> *"Mi sembra eccessivo."* someone wise, probably 
+> *"Mi sembra eccessivo."* someone wise, probably
