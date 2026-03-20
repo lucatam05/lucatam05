@@ -1,12 +1,15 @@
-## Hi, I'm Luca! 👋
-I'm currently a student of Computer Science at UNIPR
+# Hi, I'm Luca 👋
 
-I like learning, everything new is something that excited me! I like playing chess, it is stimulating 
+🎓 Computer Science student @ UNIPR
+💡 Curious mind — I enjoy learning new things every day
+♟️ Chess enthusiast — I like strategic thinking
 
-Here I will share projects that I'm interested in
+---
 
-"Mi sembra eccessivo", said someone wise
+## 📌 Projects
 
+Here you'll find projects I'm working on or interested in.
 
+---
 
-
+> *"Mi sembra eccessivo."* someone wise, probably 
