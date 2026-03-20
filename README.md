@@ -1,8 +1,8 @@
 # Hi, I'm Luca 👋
 
-I study Computer Science at UNIPR.
-I like learning new things — I find it exciting.
-I also play chess. Do you want to play?
+- I study <b>Computer Science</b>  at UNIPR.
+- I like learning new things — I find it exciting.
+- I also play chess. Do you want to play?
 
 ---
 
